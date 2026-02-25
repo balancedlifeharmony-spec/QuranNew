@@ -1,0 +1,3 @@
+/* Minimal defaults */
+html, body { height: 100%; }
+button, select, input { font: inherit; }
